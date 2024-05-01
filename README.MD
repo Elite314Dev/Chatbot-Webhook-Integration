@@ -8,7 +8,7 @@ An OpenAI API key. You can get one by signing up at OpenAI.
 ### Setting Up Your Project:
 
 ```
-git clone https://github.com/RaheesAhmed/assistant_with_function_calling.git
+git clone https://github.com/elite314dev/assistant_with_function_calling.git
 ```
 
 GO to the Directory:

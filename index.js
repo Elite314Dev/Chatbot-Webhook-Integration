@@ -12,10 +12,6 @@ import { checkDateTimeAvailability, setupMeeting } from "./calander.js";
 // Load environment variables from .env file
 dotenv.config();
 
-// {
-//   "question": "Name Rahees,email raheesahmed256@gmail.com,phone 123456789,date 24/05/2024,time 10:00 PM"
-// }
-
 // Initialize OpenAI
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
