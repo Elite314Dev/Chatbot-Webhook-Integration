@@ -8,13 +8,13 @@ An OpenAI API key. You can get one by signing up at OpenAI.
 ### Setting Up Your Project:
 
 ```
-git clone https://github.com/elite314dev/assistant_with_function_calling.git
+git clone https://github.com/elite314dev/Chatbot-Webhook-Integration.git
 ```
 
 GO to the Directory:
 
 ```
-cd assistant_with_function_calling
+cd Chatbot-Webhook-Integration
 ```
 
 ### Install Packages:
